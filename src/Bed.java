@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Bed {
+public class Bed {
+    //attributes
+    public String id;
+    public Patient patient;
 }
